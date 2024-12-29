@@ -27,15 +27,11 @@ A simple **Tic Tac Toe** game developed using **Jetpack Compose** in **Kotlin**.
 3. Build and run the app on an emulator or a physical device.
 
 ## Screenshots:
-## Screenshots:
 ![Home Screen](./screenshots/screenshot1.jpg)
 ![Game Over Screen](./screenshots/screenshot2.jpg)
 
 
-## Future Enhancements:
-- Add a **Single-Player Mode** with AI.
-- Include a **scoreboard** to track game results.
-- Improve accessibility features for visually impaired users.
+
 
 ## License:
 This project is licensed under the [MIT License](LICENSE).
