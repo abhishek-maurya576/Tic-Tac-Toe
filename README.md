@@ -4,6 +4,8 @@
 
 A simple **Tic Tac Toe** game developed using **Jetpack Compose** in **Kotlin**. Play against a friend in this classic 3x3 grid game with clean UI and intuitive gameplay.
 
+
+
 ## Features:
 - **Two-Player Mode:** Alternate turns between Player X and Player O.
 - **Win Detection:** Automatically highlights the winning combination.
@@ -35,6 +37,7 @@ A simple **Tic Tac Toe** game developed using **Jetpack Compose** in **Kotlin**.
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, use, and contribute to this project! 😊
+
 
 ---
 
